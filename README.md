@@ -13,4 +13,5 @@ Sofware using Qt-Designer
 
 Result:
 
-![Uploading sda.png…]()
+![sda](https://user-images.githubusercontent.com/67867879/180612645-931a58ed-f0df-4506-9ff4-64d0ca0bf1bb.png)
+
